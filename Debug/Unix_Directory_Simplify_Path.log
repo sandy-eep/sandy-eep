@@ -1,0 +1,4 @@
+﻿  Unix_Directory_Simplify_Path.cpp
+C:\Users\sande\source\repos\Unix_Directory_Simplify_Path\Unix_Directory_Simplify_Path.cpp(8,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\sande\source\repos\Unix_Directory_Simplify_Path\Unix_Directory_Simplify_Path.cpp(11,12): warning C4018: '<': signed/unsigned mismatch
+  Unix_Directory_Simplify_Path.vcxproj -> C:\Users\sande\source\repos\Unix_Directory_Simplify_Path\Debug\Unix_Directory_Simplify_Path.exe
