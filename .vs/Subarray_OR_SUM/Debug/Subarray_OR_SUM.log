@@ -1,0 +1,3 @@
+﻿  Subarray_OR_SUM.cpp
+C:\Users\sande\source\repos\Subarray_OR_SUM\Subarray_OR_SUM.cpp(15,21): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+  Subarray_OR_SUM.vcxproj -> C:\Users\sande\source\repos\Subarray_OR_SUM\Debug\Subarray_OR_SUM.exe
